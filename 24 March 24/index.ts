@@ -1,0 +1,2 @@
+ 
+let favoriteMovie: string = "Inception";
